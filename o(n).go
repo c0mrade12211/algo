@@ -20,3 +20,4 @@ func main() {
     found := linearSearch(numbers, target) 
     fmt.Println("Element found:", found) 
 }
+//next o(log n), O(n!)

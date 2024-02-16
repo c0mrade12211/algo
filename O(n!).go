@@ -1,3 +1,5 @@
+//It's a simple factorial O(n!) complexity
+
 package main
 
 import "fmt"
